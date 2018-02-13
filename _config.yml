@@ -1,1 +1,18 @@
-theme: jekyll-theme-tactile
+name: DGG Division Builds
+description: Builds Tom Clancy's The Division
+author: Zerthox
+adaption: MrBND
+translation: MrBND
+icon: https://avatars2.githubusercontent.com/u/36236452
+google_analytics: UA-113916753-1
+
+exclude:
+    - README.md
+    - Gemfile
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
