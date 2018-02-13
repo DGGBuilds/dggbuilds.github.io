@@ -1,0 +1,130 @@
+Erfüllt:
+    name: "Erfüllt"
+    description: "Belohnungen für Auszeichnungen werden verdreifacht."
+    type: knee-pads
+Scharfsinnig:
+    name: "Scharfsinnig"
+    description: "Die ersten 3 Kugeln des Magazin haben eine um 5% höhere Chance, eine Kritischen Treffer zu verursachen."
+    type: gloves
+Barretts kugelsichere Weste:
+    name: "Barretts kugelsichere Weste"
+    description: "Erhöht die Fertigkeitenstärke um 10%, wenn sich keine Skills im Cooldown befinden.\nErhöht den Schaden um 5%, wenn sich ein Skill im Cooldown befindet.\nErhöht die Rüstung um 10%, wenn sich beide Skills im Cooldown befinden."
+    type: chest
+    exotic: true
+Bliss:
+    name: "Colonel Bliss Holster"
+    description: "Wird ein Ziel mehrfach hintereinander mit einer Seitenwaffe getroffen, erhöht sich der Schaden um 2% für 20 Sekunden. Dieser Effekt stapelt sich bis zu zehn Mal. Danach wird der Effekt verbraucht und das Ziel von einem EMP getroffen."
+    type: holster
+    exotic: true
+Clever:
+    name: "Clever"
+    description: "Nach dem Nachladen hat der nächste Schuss dieser Waffe eine 10% höhere kritische Trefferchance."
+    type: gloves
+Entscheidend:
+    name: "Entscheidend"
+    description: "Kopfschüsse mit der Handfeuerwaffe richten 35% mehr Schaden an."
+    type: gloves
+Ausdauernd:
+    name: "Ausdauernd"
+    description: "Im letzten Segment ist Lebensregeneration immer aktiv."
+    type: mask
+Ferros Sauerstoffmaske:
+    name: "Ferros Sauerstoffmaske"
+    description: "Der Träger kann laufen und seine Waffen benutzen, während er in Brand ist."
+    type: mask
+    exotic: true
+Kraftvoll:
+    name: "Kraftvoll"
+    description: "Erhöht die Rüstung um 15%, wenn die individuelle Fertigkeit aktiv ist."
+    type: chest
+Erfinderisch:
+    name: "Erfinderisch"
+    description: "Erhöht die Fertigkeitenstärke um 15% bei voller Gesundheit."
+    type: backpack
+Behände:
+    name: "Behände"
+    description: "Nach Abschluss einer Bewegung von Deckung zu Deckung im Kampf werden 2% der maximalen Gesundheit 4 Sekunden lang pro gelaufenem 1 Meter geheilt."
+    type: holster
+NinjaBike:
+    name: "NinjaBike-Rucksack"
+    description: "Dient als universeller Platzhalter für ein Item eines Ausrüstungs-Sets. Kann die Boni mehrerer Sets gleichzeitig freischalten. Kann nicht die Boni der Classified-Sets freischalten."
+    type: backpack
+    exotic: true
+Vielversprechend:
+    name: "Vielversprechend"
+    description: "Kopfschüsse bringen Credits."
+    type: knee-pads
+Eilig:
+    name: "Eilig"
+    description: "Die Cooldown-Zeit für Heilungsfertigkeiten wird um 15% verringert."
+    type: chest
+Erbarmungslos:
+    name: "Erbarmungslos"
+    description: "Erhöht den Schaden um 8% und erlittenen Schaden um 10%."
+    type: chest
+Erholt:
+    name: "Erholt"
+    description: "Der Schaden beim Laufen von Deckung zu Deckung wird 5 Sekunden lang regeneriert, wenn das Ziel erreicht wird."
+    type: holster
+Erfrischt:
+    name: "Erfrischt"
+    description: "Heilung wird bei geringen Lebenspunkten (nur ein Segment übrig) um 30% erhöht."
+    type: mask
+Rehabilitiert:
+    name: "Rehabilitiert"
+    description: "2% Heilung/Sek, wenn negativer Statuseffekt auf den Spieler wirkt."
+    type: mask
+Verjüngt:
+    name: "Verjüngt"
+    description: "Erste-Hilfe-Paket verleiht 10 Sekunden lang 40 % Widerstand gegen alle Statuseffekte."
+    type: mask
+Unnachgiebig:
+    name: "Unnachgiebig"
+    description: "5% des Schadens durch Fertigkeiten werden als Heilung zurückgegeben."
+    type: backpack
+Einfallsreich:
+    name: "Einfallsreich"
+    description: "Heilung wirkt auf Fertigkeitenobjekte."
+    type: backpack
+Robust:
+    name: "Robust"
+    description: "Erhöht die Rüstung in der Deckung um 10%."
+    type: chest
+Wild:
+    name: "Wild"
+    description: "Erhöht die kritische Trefferchance gegenüber deckungslosen Zielen um 7%."
+    type: gloves
+Shortbow-Wettkampf-Knieschoner:
+    name: "Shortbow-Wettkampf-Knieschoner"
+    description: "Die Auslösezeit für Granaten wird auf 0,2 Sekunden verkürzt."
+    type: knee-pads
+    exotic: true
+Skulls-MC-Handschuhe:
+    name: "Skulls-MC-Handschuhe"
+    description: "Der Schaden wird um 16% erhöht, wenn keine Boni von Ausrüstungs-Sets aktiv sind."
+    type: gloves
+    exotic: true
+Spezialisiert:
+    name: "Spezialisiert"
+    description: "Fügt der Fertigkeitenstärke 200% des Ausdauer- und Schusswaffenwertes hinzu."
+    type: backpack
+Standfest:
+    name: "Standfest"
+    description: "Lebensregeneration tritt in Deckung 2x schneller ein."
+    type: holster
+Stabil:
+    name: "Stabil"
+    description: "Steigert die Rüstung um 15%, wenn eine Deckung länger als 4 Sekunden nicht verlassen wird."
+    type: holster
+Technisch:
+    name: "Technisch"
+    description: "Erhöht die Fertigkeitenstärke um 15% während die individuelle Fertigkeit aktiv ist."
+    type: backpack
+Hartnäckig:
+    name: "Hartnäckig"
+    description: "Erhöht den Schaden für 10 Sekunden um 10% wenn ein Erste-Hilfe-Set benutzt wurde."
+    type: mask
+Energisch:
+    name: "Energisch"
+    description: "Erlaubt allen Heilungsfertigkeiten eine Überheilung."
+    type: chest

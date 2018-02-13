@@ -1,0 +1,112 @@
+alphabridge: 
+    name: "AlphaBridge"
+    bonuses: 
+        - "+ 100% Gesundheitsregeneration"
+        - "+ 5% Waffenschaden"
+        - "Sind Ihre Primär- und Sekundär-Waffe aus derselben Kategorie, teilen sie das freie Talent. Alle Talentanforderungen werden für alle Waffentalente irrelevant."
+        - "+ 25% Gesundheitsregeneration\n+ 10% Waffenschaden"
+        - "Inaktive, personalisierte Versionen der drei individuellen Fertigkeiten rotieren alle sechs Sekunden und können durch die Tötung eines anderen Spielers oder Veteranen- bzw. Elite-NPCs aktiviert werden. Die während der Tötung in Rotation befindliche individuelle Fertigkeit wird für 10 Sekunden aktiviert, wenn alle Hauptattribute ausgeglichen sind. Die Dauer variiert mit dem Unterschied zwischen den drei Hauptattributen.\nMan selbst kann weder die normalen individuellen Fertigkeiten auslösen, noch von der Auslösung durch ein Teammitglied profitieren."
+banshee: 
+    name: "Banshee"
+    bonuses: 
+        - "+ 20% Dark Zone Währung"
+        - "+ 10% Schaden an Zielen außerhalb der Deckung"
+        - "Als abtrünniger Agent wird die Munition alle 30 Sekunden vollständig aufgefüllt. Der Schaden durch nicht abtrünnige Agenten reduziert sich um 10%. Während Sie nicht abtrünnig sind, erhöht sich der Schaden, den Sie abtrünnigen Spielern zufügen um 10%.\nDer Bonus erhöht sich 10 Minuten lang auf 20%, nachdem Sie von einem abtrünnigen Agenten getötet wurden."
+        - "+ 20% Dark Zone Währung\n+ 5% Schaden an Zielen außerhalb der Deckung"
+        - "Als Abtrünniger wird die Dauer des Manhunt-Status um 5% für alle Mitglieder der Gruppe innerhalb von 10 Metern reduziert. Alle Abtrünnigen-Status-Aktionen die zu einem Stufenaufstieg führen, werden verdoppelt. Die Belohnungen für das Überleben einer Manhunt werden verbessert.\nAls Nicht-Abtrünniger wird der Schaden gegen abtrünnige Spieler mit Manhunt-Status um 5% pro Manhunt-Level erhöht. Die Belohnungen für das Töten eines Abtrünnigen mit Manhunt-Status werden verbessert."
+deadeye: 
+    name: "DeadEYE"
+    bonuses: 
+        - "+ 40% anfängliche Stabilität"
+        - "+ 20% Präzisionsgewehr kritischer Trefferschaden"
+        - "Beim Zielen und Schießen durch ein Zoom-Visier beträgt die kritische Trefferchance 100%, doch der Kopfschussschaden-Bonus der Waffe wird entfernt."
+        - "+ 40% anfängliche Stabilität\n+ 20% Präzisionsgewehr kritischer Trefferschaden"
+        - "Im Zoom erhöht die Tötung durch einem Kopfschuss aus einem Präzisionsgewehr den kritischen Trefferschaden um 20% je Sekunde bis zu einem Maximum von 100% und erhöht die Stabilität auf 100%. Hält für 10 Sekunden an oder bis nicht mehr gezoomt wird."
+firecrest: 
+    name: "Firecrest"
+    bonuses: 
+        - "+ 3 Kapazität Brandgranaten"
+        - "+ 50% Flammenwerfergeschützreichweite\n+ 30% Flammenwerfergeschützschaden"
+        - "Der Schaden gegen brennende Ziele wird um 15% erhöht."
+        - "+ 1 Kapazität Brandgranaten\n+ 5% Flammenwerfergeschützreichweite\n+ 20% Flammenwerfergeschützschaden"
+        - "Kugeln besitzen eine Chance von 2%, einen Gegner in Brand zu stecken. Brennende Gegner können alle 10 Sekunden eine Feuerexplosion auslösen, wenn sie durch Kugeln getötet werden. NPCs, die durch ein Geschütz in Brand gesetzt werden, brennen 25% länger pro 2.000 Elektronik."
+final-measure: 
+    name: "Finale Maßnahme"
+    bonuses: 
+        - "+ 25% Exotische Schadensminderung"
+        - "+ 15% Schutz vor Elite"
+        - "Feindliche Granaten und Mörser in Reichweite werden automatisch entschärft und eine Granate landet im Inventar. Dies geschieht einmal alle 8 Sekunden."
+        - "+ 15% Exotische Schadensminderung\n+ 15% Schutz vor Elite"
+        - "Wenn eine Granate entschärft wird, erhalten alle Gruppenmitglieder innerhalb von 30 Metern eine Stärkung basierend auf dem Typ der Granate, die entschärft wurde. \nEMP/Schock: Die Fertigkeitenstärke wird um 20% für 8 Sekunden erhöht.\nSplittergranate/Brandgranate: Der Waffenschaden wird um 20% für 8 Sekunden erhöht.\nBlendgranate/Tränengasgranate: Die Rüstung wird um 20% für 8 Sekunden erhöht."
+frontline: 
+    name: "D3-FNC"
+    bonuses: 
+        - "+ 15% Schutz vor Elite"
+        - "+ 5% Ballistischer Schild Schadens-Widerstand"
+        - "Ermöglicht die Nutzung einer MP, wenn ein ballistischer Schild angewendet wird. Nur die Meisterrang-Schild-Mod ist aktiv. Die Gesundheit des ballistischen Schildes wird für je 3.000 Ausdauer um 57% erhöht."
+        - "+ 15% Schutz vor Elite\n+ 5% Ballistischer Schild Schadens-Widerstand"
+        - "Wenn der ballistische Schild ausgerüstet ist, erhöht sich der Nahkampfschaden um 2.000% und sämtliche Überheilung, die der Spieler erhält, wird stattdessen auf den Schild als Heilung übertragen. Nachdem der Schild einen Schwellenwert an physischen oder exotischen Schaden genommen hat, gewährt er dem Spieler und seinen Gruppenmitgliedern innerhalb von 15 Metern einen Buff für 6 Sekunden. Die Dauer des Buffs wird pro 3.000 Ausdauer des Schildträgers um 2 Sekunden verlängert.\nPhysischer Schadens-Buff: Die Rüstung wird um 30% erhöht.\nExotischer Schadens-Buff: Der Waffenschaden wird um 30% erhöht.\n\nWenn Ihr mehr als 9000 Ausdauer habt, werden die Ballistischer-Schild-Lebenspunkte zusätzlich um 200% erhöht."
+hunters-faith: 
+    name: "Treue des Jägers"
+    bonuses: 
+        - "+ 20% Optimale Reichweite"
+        - "+ 10% Kopfschussschaden"
+        - "Jeder aufeinanderfolgende Schuss mit einem Repetier-Präzisionsgewehr, der einen Gegner trifft, verursacht 3% mehr Schaden. Der Bonusschaden erhöht sich um 4% je 3.000 Schusswaffen-Punkte. Der Bonusschaden wird entfernt, sobald eine Kugel das Ziel verfehlt, die Waffe gewechselt oder nachgeladen wird oder 10 Sekunden vergangen sind."
+        - "+ 20% Optimale Reichweite\n+ 10% Kopfschussschaden"
+        - "Kopfschüsse verdoppeln den gewährten Schadensbonus. Zwei aufeinanderfolgende Fehlschüsse werden benötigt, um den Bonus zu verlieren."
+lone-star: 
+    name: "Einsamer Held"
+    bonuses: 
+        - "+ 100% Munitionskapazität"
+        - "+ 8% Schaden mit LMGs\n+ 8% Schaden mit Schrotflinten"
+        - "Wenn eine Waffe geholstert wird, wird sie automatisch nachgeladen."
+        - "+ 50% Munitionskapazität\n+ 12% Schaden mit LMGs\n+ 12% Schaden mit Schrotflinten"
+        - "Wenn eine Waffe bei 50% Magazinkapazität ankommt, besteht eine Chance von 75% einen Bonus zu erhalten, der ausgelöst wird, wenn man die letzte Kugel des Magazins verschießt. Sobald aktiviert, wird das Magazin automatisch aufgefüllt, Waffenschaden und Feuerrate erhöhen sich um 20%, Stabilität und Präzision werden auf 0% gesenkt. Der Bonus wird deaktiviert wenn nachgeladen wird oder man den Kampf verlässt."
+nomad: 
+    name: "Weg des Nomaden"
+    bonuses: 
+        - "+ 15% Lebenspunkte bei Tötung"
+        - "Erzeugt eine langsame, konstante Heilung über die Segmente des Gesundheitsbalkens hinweg."
+        - "Steckt man fatalen Schaden ein, wird man sofort auf volle Gesundheit geheilt. Dies geschieht einmal alle 4 Minuten."
+        - "+ 10% Lebenspunkte bei Tötung\nErhöht die Heilung des Talents Nomad's Resolve, welches zudem auch überheilen kann."
+        - "50% Chance, dass das 4-Teile-Talent Weg des Nomaden keinen Cooldown besitzt. Der eingehende Schaden wird um 60% für 10 Sekunden reduziert, nachdem Weg des Nomaden ausgelöst wurde."
+predators-mark: 
+    name: "Zeichen des Prädators"
+    bonuses: 
+        - "+ 10% Nachladegeschwindigkeit"
+        - "+ 8% Schaden mit Sturmgewehren\n+ 8% Schaden mit Maschinenpistolen"
+        - "Zehn Treffer ohne Unterbrechung auf dasselbe Ziel lassen dieses um 50% des durch die Kugeln verursachten Schadens bluten."
+        - "+ 10% Nachladegeschwindigkeit\n+ 8% Schaden mit Sturmgewehren\n+ 8% Schaden mit Maschinenpistolen"
+        - "Das Talent Predator's Mark ignoriert nun den Widerstand gegen blutende Wunden. Der Schaden über Zeit gegenüber dem Ziel wird um 15% je 3.000 Ausdauer erhöht und kann kritisch treffen. Bei einer Ausdauer von 9.000 Punkten wird der Schaden über Zeit um weitere 120% erhöht."
+reclaimer: 
+    name: "Rückholer"
+    bonuses: 
+        - "+ 30% Hilfsposten-Reichweite"
+        - "+ 50% Hilfsposten-Wirkzeit"
+        - "Hilfsposten erhalten gleichzeitig die Vorteile der Lebensretter-, Immunisierer- und Munitionsversteck-Mods."
+        - "+ 15% Hilfsposten-Reichweite\n+ 25% Hilfsposten-Wirkzeit"
+        - "+ 100% Hilfsposten-Heilgeschwindigkeit\n+ 50% Hilfsposten-Lebenspunkte\nDer Hilfsposten hat eine Wahrscheinlichkeit von 40%, dass kein Cooldown ausgelöst wird, wenn er von einem Gegner zerstört wird. Die Wahrscheinlichkeit wird um 20% je 3.000 Elektronik erhöht."
+sentry: 
+    name: "Ruf der Wache"
+    bonuses: 
+        - "+ 30% Präzision"
+        - "+ 10% Kopfschussschaden"
+        - "Kopfschüsse mit halbautomatischen Waffen markieren den Gegner und erhöhen den zugefügten Schaden jeweils 30 Sekunden lang um 5%. Ein Ziel kann bis zu 3 Markierungen erhalten."
+        - "+ 15% Präzision\n+ 15% Kopfschussschaden"
+        - "NPC-Ziele können bis zu sechs Markierungen erhalten. Nach einer Markierung hat jeder Kopfschuss eine Chance von 50% eine Markierung auf weitere Ziele im Umkreis von 25 Meter zu verbreiten. Bei sechs Markierungen wird der Kopfschussschaden auf das Ziel um 100% erhöht."
+striker: 
+    name: "Kampfausrüstung des Stürmers"
+    bonuses: 
+        - "+ 20% Stabilität"
+        - "+ 10% Rüstungsschaden"
+        - "Jeder aufeinanderfolgende Treffer fügt 1% mehr Schaden zu. Der Bonus kann bis zu 100% erreichen. Fehlschüsse vermindern ihn um 2%. Der Bonus kann durch EMP unterbrochen werden und geht beim Verlassen eines Kampfes verloren."
+        - "+ 10% Stabilität\n+ 5% Rüstungsschaden"
+        - "Jeder Treffer gewährt einen Selbstheilungsbonus von 0.02% der maximalen Gesundheit pro Sekunde. Dieser Bonus erhöht sich für je 3.000 Ausdauer um 0.05%. Der Effekt kann bis auf 100 Treffer gestapelt werden. Verpasste Treffer reduzieren den Bonus um 1 Stapel und der Bonus wird jede Sekunde um 2 Stapel reduziert.\n\nJeder Treffer erhöht den Bonusschaden der Kampfausrüstung des Stürmers um weitere 1%. Verpasste Schüsse reduzieren den Bonusschaden der Kampfausrüstung des Stürmers um 1% und der Bonus wird jede Sekunde um 2% reduziert."
+tactician:
+    name: "Autorität des Taktikers"
+    bonuses: 
+        - "+ 15% Eile"
+        - "+ 10% Fertigkeitenstärke"
+        - "Mit jeder Kugel, die einen Gegner trifft, werden 1% Bonus-Fertigkeitenstärke gewährt. Mit jeder Kugel, die einen Gegner mit den verwendeten Fertigkeiten trifft, werden 0,2% Bonus-Fertigkeitenstärke gewährt. Der maximale Bonus beträgt 30%. Der Bonus wird verbraucht, wenn eine Fertigkeit verwendet wird."
+        - "+ 5% Eile\n+ 5% Fertigkeitenstärke"
+        - "Die Nutzung eines Skills bei maximalem 4-Teile-Bonus (30%) setzt den Fertigkeitenstärke-Buff zurück, erhöht aber dessen Limit auf 60%. Die Nutzung eines weiteren Skills bei 60% erzeugt eine Chance von 40%, dass der Buff zurück auf die ursprünglichen 30% fällt, während das Limit bei 60% bleibt. Die Chance erhöht sich um 20% pro 3.000 Elektronik."

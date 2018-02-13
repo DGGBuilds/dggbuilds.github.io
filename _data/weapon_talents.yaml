@@ -1,0 +1,206 @@
+Präzise:
+    description: "Präzision wird um 25% gesteigert."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Kenner:
+    description: "Die Nutzung einer Fertigkeit erhöht Ihre kritische Trefferchance für 15 Sekunden um 7,5%"
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Hinterhalt:
+    description: "Erhöht den Schaden um 10% gegen Ziele hinter der Deckung."
+    available: [smg]
+    exclusive: true
+Ausgewogen:
+    description: "Die Waffe erzielt die maximale Präzision geschultert schneller."
+    available: [mmr]
+Doppelflinte:
+    description: "Der Doppelabzug feuert beide Läufe in kurzer Folge ab."
+    available: [shotgun]
+    exotic: true
+Brutal:
+    description: "Mit dieser Waffe erhöht sich der Kopfschusschaden um 12%."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Caduceus:
+    description: "Jeder kritische Treffer heilt bei Ihnen und Ihrer Gruppe um 1% Fertigkeitenstärke. Kann jeden Spieler nur einmal alle 0.20 Sekunden heilen."
+    available: [ar]
+    exotic: true
+Fähig:
+    description: "Die Nutzung einer Fertigkeit verbessert das Handling Ihrer Waffe um 25% für 15 Sekunden."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Kartenzähler: 
+    description: "Eine Hälfte des Magazins richtet 20% mehr Schaden an. Die Hälfte mit dem erhöhten Schaden wechselt nach 15 Sekunden oder wenn das Magazin leer ist."
+    available: [smg]
+    exotic: true
+Sorgenfrei:
+    description: "Schaden beim Schießen aus der Hüfte wird um 11% erhöht."
+    available: [smg]
+    exotic: true
+Schwerpunkt:
+    description: "Verschießt schwere Kugeln statt Schrot."
+    available: [shotgun]
+    exotic: true
+Fordernd:
+    description: "Jede Eliminierung, die mit einer aktiven individuellen Fertigkeit erzielt wird, verlängert deren Dauer um 20%."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Kompetent:
+    description: "Der Waffenschaden wird für 15 Sekunden um 10% erhöht, nachdem eine Fertigkeit eingesetzt wurde."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Mit kühlem Kopf:
+    description: "Kopfschüsse verringern den Cooldown aller Fertigkeiten um 5%."
+    available: [mmr, pistol]
+Deckungsschütze:
+    description: "Jede in Deckung auf Gegner verschossene Kugel erhöht den Waffenschaden um 0,5% bis auf 50%. Der Bonus hält 10 Sekunden an. Wird eine Tötung mit der Waffe in der Deckung erzielt, wird die Dauer zurückgesetzt. Der Schadensbonus verfällt beim Nachladen, Waffenwechsel oder Verlassen des Kampfes."
+    available: [lmg]
+    exotic: true
+Tödlich:
+    description: "Der kritische Trefferschaden wird um 15% erhöht."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Zerstörerisch:
+    description: "Mit dieser Waffe wird die Rüstungsdurchdringung um 15% erhöht."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Entschlossen:
+    description: "Das Eliminieren eines Ziels reduziert die Cooldown-Zeit aller Fertigkeiten um 7,5%."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Diszipliniert:
+    description: "Durch das Töten eines Ziels wird der nächste Schuss mit dieser Waffe automatisch ein kritischer Treffer."
+    available: [mmr]
+Abgelenkt:
+    description: "Ihr Schaden gegen Ziele mit Statuseffekten erhöht sich um 18%."
+    available: [ar]
+    exotic: true
+Dominant:
+    description: "Jede Tötung die erfolgt, während Ihre individuelle Fertigkeit aktiv ist, reduziert die Cooldown-Zeit Ihrer anderen Fertigkeiten um 10%."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Erhöht:
+    description: "Erhöht den Schaden um 10%, wenn Sie mehr als 1,2 m über ihrem Ziel sind."
+    available: [mmr]
+    exclusive: true
+Experte:
+    description: "Wenn die Gesundheit des Ziels unter 30% liegt, richtet diese Waffe 100% mehr Schaden an."
+    available: [pistol]
+Bösartig:
+    description: "Der Schaden gegen benannte und Elite-Gegner wird um 10% erhöht."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Erbittert:
+    description: "Mit dieser Waffe wird die kritische Trefferchance um 5% erhöht."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Feuer:
+    description: "Kopfschüsse erhöhen die Stabilität für 15 Sekunden um 30%. Körpertreffer erhöhen den Kopfschussschaden für 15 Sekunden um 30%."
+    available: [mmr]
+    exotic: true
+Zorn:
+    description: "Das Treffen von Schwachpunkten erhöht den Waffenschaden für 15 Sekunden um 15%. Das Treffen von Fertigkeitenhelfern erhöht den kritischen Trefferschaden für 15 Sekunden um 30%."
+    available: [mmr]
+    exotic: true
+Konzentriert:
+    description: "Wenn keine Fertigkeit im Cooldown ist, erhöht sich der Waffenschaden um 10%."
+    available: [ar]
+Freie Republik:
+    description: "Jeder Schuss mit der Liberator erhöht Ihren nächsten Kopfschussschaden mit der Centurion um 5%. Das Maximum beträgt 200%. Abschüsse mit der Centurion gewähren allen Waffen 10 Sekunden lang +10% SPM."
+    available: [ar, pistol]
+    set: true
+Nimmersatt:
+    description: "Das Töten eines Ziels erhöht den zugefügten Schaden um 10%, bis Sie das Feuer einstellen. Durch mehrere Abschüsse wird dieser Bonus bis zu 5 Mal kumuliert."
+    available: [lmg]
+    exotic: true
+Goldene Rhino:
+    description: "Erhöht Wanken um 200%."
+    available: [pistol]
+    exotic: true
+Schmerzhaft:
+    description: "Jeder Treffer hat eine Chance von 15%, eine blutende Wunde am Ziel zu hinterlassen."
+    available: [mmr, pistol]
+Geschichte wiederholt sich:
+    description: "Jede Kugel bleibt im Ziel stecken und detoniert 1 Sekunde später für 700% des Schusswaffen-Wertes."
+    available: [mmr]
+    exotic: true
+Beschleunigt:
+    description: "Kritische Treffer erhöhen die Nachladegeschwindigkeit um 10% bis zu einer minimalen Nachladedauer von 1 Sekunde."
+    available: [smg]
+Intensiv:
+    description: "Die erste Kugel eines Magazins hat eine Chance von 25%, das Ziel in Brand zu setzen."
+    available: [ar, mmr, pistol]
+Lichter aus:
+    description: "Das Zerstören eines gegnerischen Schwachpunkts setzt den Fertigkeiten-Cooldown für Sie und Gruppenmitglieder in der Nähe zurück. Ist einmal alle 10 Sekunden möglich."
+    available: [mmr]
+    exotic: true
+Sorgfältig:
+    description: "Das Eliminieren eines Ziels hat eine Chance von 25%, das Magazin aufzufüllen."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Midas:
+    description: "Jeder Treffer reduziert den eigenen Schaden und den des Gegners um 1% bis zu einem Maximum von 20%. Der Effekt reduziert sich jede Sekunde um 5%."
+    available: [smg]
+    exotic: true
+Pakhan:
+    description: "Jeder Abschuss steigert beim Nachladen die Zahl der geladenen Patronen um 20% im Vergleich zur normalen Anzahl."
+    available: [lmg]
+    exotic: true
+Harte Bandagen:
+    description: "Der eingehende Schaden wird während des Schießens um 20% reduziert und erst nach dem Einstellen des Schießens abgezogen."
+    available: [ar]
+    exotic: true
+Räuberisch:
+    description: "Das Eliminieren eines Ziels regeneriert 35% Gesundheit für 20 Sekunden."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Vorbereitet:
+    description: "Bei einer Entfernung von über 30 Metern zum Ziel wird der Schaden um 15% erhöht."
+    available: [ar, lmg, mmr]
+Erfahren:
+    description: "Die erste Kugel, die außerhalb eines Kampfes verschossen wird, hat eine zusätzliche Chance von 50%, einen kritischen Treffer zu verursachen."
+    available: [mmr, pistol]
+Sparsam:
+    description: "Die letzte Kugel eines Magazins verursacht 10% mehr Schaden."
+    available: [ar, lmg, mmr]
+    legacy: true
+Schnellzug:
+    description: "Wenn gezogen, erhöht sich der Waffenschaden um 20% für 2 Sekunden. Anschließend verringert sich der Waffenschaden um 20%."
+    available: [pistol]
+    exotic: true
+Empfänglich:
+    description: "Bei einer Entfernung von unter 10 Metern zum Ziel, wird der Schaden um 10% erhöht."
+    available: [ar, smg, shotgun, pistol]
+Präpariert:
+    description: "Kritische Treffer mit dieser Waffe heilen den Anwender mit 3% des zugefügten Schadens."
+    available: [ar, lmg, smg, shotgun, pistol]
+Showstopper:
+    description: "Je weiter das Magazin leergeschossen ist, desto präziser wird die Waffe."
+    available: [shotgun]
+    exotic: true
+Talentiert:
+    description: "Kopfschuss-Kills mit dieser Waffe erhöhen die Ressourcen für individuelle Fertigkeiten um 5%."
+    available: [ar, lmg, smg, mmr, pistol]
+Stabil:
+    description: "Die Stabilität wird um 10% erhöht."
+    available: [ar, lmg, smg, shotgun]
+    legacy: true
+Ausdauernd:
+    description: "Das Töten eines Ziels erhöht die Lebenspunkte um 6%."
+    available: [ar, lmg, smg, mmr, pistol]
+Flink:
+    description: "Es wird 25% schneller nachgeladen."
+    available: [ar, lmg, smg, shotgun, pistol]
+Begabt:
+    description: "Das Eliminieren eines Ziels mit dieser Waffe erhöht die Fertigkeitenstärke für 20 Sekunden um 15%. Dieser Effekt wirkt nicht kummulativ. Das Eliminieren eines neuen Ziels setzt den Timer zurück."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Ferse des Teufels:
+    description: "Beide Waffen erhalten die Talente Feuer und Zorn und die Stärkung verlängert sich um 15 Sekunden. Boni von Feuer und Zorn gehen nicht mehr verloren, wenn zwischen Feuer und Zorn gewechselt wird. Das Waffenwechseltempo wird erhöht."
+    available: [mmr]
+    set: true
+Toxisch:
+    description: "Kopfschüsse mit dieser Waffe haben eine Chance von 15%, den Blind-Statuseffekt zu aktivieren."
+    available: [mmr, pistol]
+Ausgebildet:
+    description: "Kritische Treffer erhöhen die individuelle Fertigkeitenressourcen um 0,10%."
+    available: [mmr, shotgun, pistol]
+Unkompliziert:
+    description: "Erhöht den Schaden um 15%. Stabilitäts- und Präzisions-Mods verringern den Bonus."
+    available: [ar]
+    exotic: true
+Nachtragend:
+    description: "Schaden wird auf Basis der fehlenden Gesundheit gesteigert: 1 fehlendes Segment +10%, 2 fehlende Segmente +25%."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
+Valkyria:
+    description: "Jeder Treffer mit der Hildr erhöht den kritischen Trefferschaden um 1% auf ein Maximum von 30%. Der Bonus verringert sich jede Sekunden um 1%. Dieser Bonus gilt nur für die Eir."
+    available: [smg]
+    set: true
+Boshaft:
+    description: "Die kritische Trefferchance wird bei einer Gesundheit von mindestens 2 Dritteln um 10% erhöht."
+    available: [ar, lmg, smg, mmr, shotgun, pistol]
